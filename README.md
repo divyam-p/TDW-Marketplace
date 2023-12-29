@@ -9,11 +9,11 @@ https://youtu.be/Pmf4oRrXbqg
 
 ## Team Members
 
-| Full Name         | Email                              |
-| ----------------- | ---------------------------------- |
-| Divyam Patel      | divyam.patel@mail.utoronto.ca      |
-| Tapas Rastogi     | tapas.rastogi@mail.utoronto.ca     |
-| Winson Yuan       | winson.yuan@mail.utoronto.ca       |
+| Full Name         | 
+| ----------------- |
+| Divyam Patel      |
+| Tapas Rastogi     |
+| Winson Yuan       |
 
 
 ## Project Description
