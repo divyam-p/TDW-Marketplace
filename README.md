@@ -15,31 +15,15 @@ https://youtu.be/Pmf4oRrXbqg
 | Tapas Rastogi     |
 | Winson Yuan       |
 
-
-## Project Description
-This is a marketplace app which allows: 
-- Users to login through google provider
-- Users to list items for sale, specify more details about the item
-- Sellers to create live bidding sessions in a video call
-
-## Concepts to be used for Challenge Factor
+## Concepts Implemented
 - `OAuth 2.0` - Users are able to sign in to our application using other oauth providers such as Google and authorization for multiple scopes such as access to their google calendar 
 - `Real-time interaction` - Sellers would be able to host live bidding sessions with a video chat where they can disconnect all the other users in the video call 
 - `Workers` - Utilize workers in backend to send emails three minutes after signing up, and for setting the event in their google calendar 
-
-## Key features to be completed by the beta version
-- Plan on getting `OAuth 2.0` to authenticate users to login to our application 
-- Live video bidding sessions
-- Functional and working UI
-- Users can add new items to sell and view others items put for sale
-
-## Additional features to be completed by final version
 - Enhance the UI with library components such as Tailwind CSS
 - Workers implemented to send emails after user registers, and when adding event to calendar
-- Live video sessions can allow users to be disconnected
 - Deploy web application in a digital ocean vm
 
-## Tech Stack to be used to build the application
+## Tech Stack used
 - MongoDB, Redis - database
 - Express - backend
 - React and Tailwind CSS - frontend 
