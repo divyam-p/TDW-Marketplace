@@ -9,11 +9,11 @@ https://youtu.be/Pmf4oRrXbqg
 
 ## Team Members
 
-| Full Name         | Email                              | UTORid   | Stu. No.   | 
-| ----------------- | ---------------------------------- | -------- | ---------- | 
-| Divyam Patel      | divyam.patel@mail.utoronto.ca      | pate1006 | 1006139698 |       
-| Tapas Rastogi     | tapas.rastogi@mail.utoronto.ca     | rastog32 | 1005734608 |
-| Winson Yuan       | winson.yuan@mail.utoronto.ca       | yuanwins | 1006414051 |
+| Full Name         | Email                              |
+| ----------------- | ---------------------------------- |
+| Divyam Patel      | divyam.patel@mail.utoronto.ca      |
+| Tapas Rastogi     | tapas.rastogi@mail.utoronto.ca     |
+| Winson Yuan       | winson.yuan@mail.utoronto.ca       |
 
 
 ## Project Description
